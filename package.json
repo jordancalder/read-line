@@ -1,7 +1,7 @@
 {
   "name": "read-line",
   "description": "An implementation of readline for Nodejs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/jordancalder/read-line",
   "author": {
     "name": "Sterling Jordan Calder",
@@ -24,9 +24,11 @@
   "main": "lib/read-line",
   "engines": {
     "node": ">= 0.10.0"
-  }
+  },
   "keywords": [
     "readline",
-    "line"
+    "line",
+    "read",
+    "file"
   ]
 }
