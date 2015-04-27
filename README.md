@@ -1,6 +1,6 @@
 # read-line [![Build Status](https://secure.travis-ci.org/jordancalder/read-line.png?branch=master)](http://travis-ci.org/jordancalder/read-line)
 
-An implementation of readline for Nodejs (while native is unstable)
+An implementation of readline for Nodejs
 
 ## Getting Started
 Install the module with: `npm install read-line`
